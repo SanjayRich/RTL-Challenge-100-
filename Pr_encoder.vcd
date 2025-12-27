@@ -1,0 +1,73 @@
+$date
+	Sat Dec 27 23:49:19 2025
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module Pr_encoder_tb $end
+$var wire 3 ! code [2:0] $end
+$var reg 8 " in [7:0] $end
+$scope module DUT $end
+$var wire 8 # in [7:0] $end
+$var reg 3 $ code [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx $
+b0 #
+b0 "
+bx !
+$end
+#5000
+b0 !
+b0 $
+b1 "
+b1 #
+#10000
+b1 !
+b1 $
+b10 "
+b10 #
+#15000
+b0 !
+b0 $
+b11 "
+b11 #
+#20000
+b10 !
+b10 $
+b100 "
+b100 #
+#25000
+b0 !
+b0 $
+b101 "
+b101 #
+#30000
+b1 !
+b1 $
+b110 "
+b110 #
+#35000
+b0 !
+b0 $
+b111 "
+b111 #
+#40000
+b11 !
+b11 $
+b1000 "
+b1000 #
+#45000
+b0 !
+b0 $
+b1001 "
+b1001 #
