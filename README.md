@@ -1,8 +1,10 @@
 # RTL Challenge 
+- Verilog
+- SystemVerilog
 
 Questions from :
-https://hdlbits.01xz.net/wiki/Main_Page
-https://siliconsprint.com/
+- https://hdlbits.01xz.net/wiki/Main_Page
+- https://siliconsprint.com/
 
 
 
@@ -15,5 +17,4 @@ https://siliconsprint.com/
 - **[DAY 3 – Multiplexers_HDLBits](./DAY_3)**
 
 
-## Goal
-To strengthen RTL design, verification skills.
+
