@@ -13,4 +13,4 @@ Each day focuses on designing, simulating, and verifying a core digital block us
 
 
 ## Goal
-To strengthen RTL design, verification skills, and build a strong hardware design portfolio for VLSI roles.
+To strengthen RTL design, verification skills.
