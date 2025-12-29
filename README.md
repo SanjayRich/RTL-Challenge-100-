@@ -1,7 +1,6 @@
 # RTL Challenge 
 
-This repository contains my daily RTL design practice as part of a self-driven RTL challenge.
-Each day focuses on designing, simulating, and verifying a core digital block using Verilog.
+
 
 ---
 
