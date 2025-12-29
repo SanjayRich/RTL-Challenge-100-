@@ -9,6 +9,7 @@ Each day focuses on designing, simulating, and verifying a core digital block us
 
 - **[DAY 1 – Priority Encoder](./DAY_1)**
 - **[DAY 2 – BCD TO 7 SEG DISPLAY](./DAY_2)**
+- **[DAY 3 – Multiplexers_HDLBits](./DAY_3)**
 
 
 ## Goal
