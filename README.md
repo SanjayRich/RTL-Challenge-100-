@@ -16,5 +16,7 @@ Questions from :
 - **[DAY 2 – BCD TO 7 SEG DISPLAY](./DAY_2)**
 - **[DAY 3 – Multiplexers_HDLBits](./DAY_3)**
 - **[DAY 4 - Arithmetic Circuits_HDLBits](./DAY_4)**
+- **[DAY 5 - ALU](./DAY5)**
+- **[DAY 6 - KMAP_HDLBits](./DAY_6)**
 
 
