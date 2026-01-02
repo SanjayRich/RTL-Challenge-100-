@@ -18,5 +18,6 @@ Questions from :
 - **[DAY 4 - Arithmetic Circuits_HDLBits](./DAY_4)**
 - **[DAY 5 - ALU](./DAY5)**
 - **[DAY 6 - KMAP_HDLBits](./DAY_6)**
+- **[DAY 7 - LATCHES AND FLIPFLOP_HDLBits](./DAY_7)**
 
 
