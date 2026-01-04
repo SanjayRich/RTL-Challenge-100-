@@ -20,5 +20,7 @@ Questions from :
 - **[DAY 6 - KMAP_HDLBits](./DAY_6)**
 - **[DAY 7 - LATCHES AND FLIPFLOP_HDLBits](./DAY_7)**
 - **[DAY 8 - 0110_Sequence_Detector_FSM](./DAY_8)**
+- **[DAY 9 - 4x3 Multiplier Design](./DAY_9)**
+  
 
 
