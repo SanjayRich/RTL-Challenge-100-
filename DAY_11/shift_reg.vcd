@@ -1,0 +1,97 @@
+$date
+	Tue Jan 06 23:55:44 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module shiftreg_tb $end
+$var wire 16 ! data_out [15:0] $end
+$var reg 1 " S_in $end
+$var reg 1 # clk $end
+$var reg 1 $ clr $end
+$var reg 16 % data_in [15:0] $end
+$var reg 1 & ld $end
+$var reg 1 ' sft $end
+$scope module DUT $end
+$var wire 1 " S_in $end
+$var wire 1 # clk $end
+$var wire 1 $ clr $end
+$var wire 16 ( data_in [15:0] $end
+$var wire 1 & ld $end
+$var wire 1 ' sft $end
+$var reg 16 ) data_out [15:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+$end
+#0
+$dumpvars
+bx )
+b0 (
+0'
+0&
+b0 %
+0$
+0#
+0"
+bx !
+$end
+#5
+1#
+#10
+0#
+1$
+#15
+b0 !
+b0 )
+1#
+#20
+0#
+0$
+#25
+1#
+#30
+0#
+b1010010110100101 %
+b1010010110100101 (
+1&
+#35
+b1010010110100101 !
+b1010010110100101 )
+1#
+#40
+0#
+0&
+#45
+1#
+#50
+0#
+1"
+1'
+#55
+b1101001011010010 !
+b1101001011010010 )
+1#
+#60
+0#
+0"
+#65
+b110100101101001 !
+b110100101101001 )
+1#
+#70
+0#
+0'
+#75
+1#
+#80
+0#
+#85
+1#
+#90
+0#
