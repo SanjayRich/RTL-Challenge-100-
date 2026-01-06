@@ -21,6 +21,8 @@ Questions from :
 - **[DAY 7 - LATCHES AND FLIPFLOP_HDLBits](./DAY_7)**
 - **[DAY 8 - 0110_Sequence_Detector_FSM](./DAY_8)**
 - **[DAY 9 - 4x3 Multiplier Design](./DAY_9)**
-  
+- **[DAY 10 - 4 bit Sequence Multiplier Design](./DAY10)**
+- **[DAY 11 - 16bit_Shift_Reg](./DAY11)**
+- 
 
 
