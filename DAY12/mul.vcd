@@ -1,0 +1,368 @@
+$date
+	Wed Jan 07 23:50:46 2026
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module MUL_ADD_TEST $end
+$var wire 16 ! out [15:0] $end
+$var wire 1 " ldP $end
+$var wire 1 # ldB $end
+$var wire 1 $ ldA $end
+$var wire 1 % eqz $end
+$var wire 1 & done $end
+$var wire 1 ' decB $end
+$var wire 1 ( clrP $end
+$var reg 1 ) clk $end
+$var reg 16 * data_in [15:0] $end
+$var reg 1 + start $end
+$scope module DUT $end
+$var wire 16 , Bus [15:0] $end
+$var wire 1 ) clk $end
+$var wire 16 - data_in [15:0] $end
+$var wire 1 " ldP $end
+$var wire 1 # ldB $end
+$var wire 1 $ ldA $end
+$var wire 1 % eqz $end
+$var wire 1 ' decB $end
+$var wire 1 ( clrP $end
+$var wire 16 . Z [15:0] $end
+$var wire 16 / Y [15:0] $end
+$var wire 16 0 X [15:0] $end
+$var wire 16 1 Bout [15:0] $end
+$var reg 16 2 mul_out [15:0] $end
+$scope module A1 $end
+$var wire 16 3 in2 [15:0] $end
+$var wire 16 4 in1 [15:0] $end
+$var reg 16 5 out [15:0] $end
+$upscope $end
+$scope module C1 $end
+$var wire 1 ) clk $end
+$var wire 16 6 din [15:0] $end
+$var wire 1 # ld $end
+$var wire 1 ' dec $end
+$var reg 16 7 dout [15:0] $end
+$upscope $end
+$scope module P1 $end
+$var wire 1 ) clk $end
+$var wire 16 8 din [15:0] $end
+$var wire 1 $ ld $end
+$var reg 16 9 dout [15:0] $end
+$upscope $end
+$scope module P2 $end
+$var wire 1 ) clr $end
+$var wire 16 : din [15:0] $end
+$var wire 1 " ld $end
+$var wire 1 ( clk $end
+$var reg 16 ; dout [15:0] $end
+$upscope $end
+$scope module compare $end
+$var wire 16 < data [15:0] $end
+$var wire 1 % eqz $end
+$upscope $end
+$upscope $end
+$scope module DUT1 $end
+$var wire 1 ) clk $end
+$var wire 1 % eqz $end
+$var wire 1 + start $end
+$var parameter 3 = S0 $end
+$var parameter 3 > S1 $end
+$var parameter 3 ? S2 $end
+$var parameter 3 @ S3 $end
+$var parameter 3 A S4 $end
+$var reg 1 ( clrP $end
+$var reg 1 ' decB $end
+$var reg 1 & done $end
+$var reg 1 $ ldA $end
+$var reg 1 # ldB $end
+$var reg 1 " ldP $end
+$var reg 3 B state [2:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+$comment Show the parameter values. $end
+$dumpall
+b100 A
+b11 @
+b10 ?
+b1 >
+b0 =
+$end
+#0
+$dumpvars
+bx B
+bx <
+bx ;
+bx :
+bx 9
+bz 8
+bx 7
+bz 6
+bx 5
+bx 4
+bx 3
+bx 2
+bx 1
+bx 0
+bx /
+bx .
+bx -
+bz ,
+x+
+bx *
+0)
+x(
+x'
+x&
+x%
+x$
+x#
+x"
+bx !
+$end
+#3
+1+
+#5
+b0 B
+1)
+#6
+0'
+0(
+0"
+0#
+0$
+#10
+0)
+#15
+b1 B
+1)
+#16
+1$
+#17
+b10001 *
+b10001 -
+#20
+0)
+#25
+bz 0
+bz 4
+bz 9
+b10 B
+1)
+#26
+b0 !
+b0 2
+b0 /
+b0 3
+b0 ;
+1(
+1#
+0$
+#27
+b101 *
+b101 -
+#30
+0)
+#35
+1'
+0(
+1"
+0#
+b11 B
+bz 1
+bz 7
+bz <
+1)
+#40
+0)
+#45
+bx 1
+bx 7
+bx <
+1)
+#50
+0)
+#55
+1)
+#60
+0)
+#65
+1)
+#70
+0)
+#75
+1)
+#80
+0)
+#85
+1)
+#90
+0)
+#95
+1)
+#100
+0)
+#105
+1)
+#110
+0)
+#115
+1)
+#120
+0)
+#125
+1)
+#130
+0)
+#135
+1)
+#140
+0)
+#145
+1)
+#150
+0)
+#155
+1)
+#160
+0)
+#165
+1)
+#170
+0)
+#175
+1)
+#180
+0)
+#185
+1)
+#190
+0)
+#195
+1)
+#200
+0)
+#205
+1)
+#210
+0)
+#215
+1)
+#220
+0)
+#225
+1)
+#230
+0)
+#235
+1)
+#240
+0)
+#245
+1)
+#250
+0)
+#255
+1)
+#260
+0)
+#265
+1)
+#270
+0)
+#275
+1)
+#280
+0)
+#285
+1)
+#290
+0)
+#295
+1)
+#300
+0)
+#305
+1)
+#310
+0)
+#315
+1)
+#320
+0)
+#325
+1)
+#330
+0)
+#335
+1)
+#340
+0)
+#345
+1)
+#350
+0)
+#355
+1)
+#360
+0)
+#365
+1)
+#370
+0)
+#375
+1)
+#380
+0)
+#385
+1)
+#390
+0)
+#395
+1)
+#400
+0)
+#405
+1)
+#410
+0)
+#415
+1)
+#420
+0)
+#425
+1)
+#430
+0)
+#435
+1)
+#440
+0)
+#445
+1)
+#450
+0)
+#455
+1)
+#460
+0)
+#465
+1)
+#470
+0)
+#475
+1)
+#480
+0)
+#485
+1)
+#490
+0)
+#495
+1)
+#500
+0)
+#503
