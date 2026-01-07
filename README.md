@@ -23,6 +23,6 @@ Questions from :
 - **[DAY 9 - 4x3 Multiplier Design](./DAY_9)**
 - **[DAY 10 - 4 bit Sequence Multiplier Design](./DAY10)**
 - **[DAY 11 - 16bit_Shift_Reg](./DAY11)**
-- 
+- **[DAY 12 - Multiplication_by_repeated_Additon_Algorithm_Implementation](./DAY12)**
 
 
