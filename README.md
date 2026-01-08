@@ -24,5 +24,6 @@ Questions from :
 - **[DAY 10 - 4 bit Sequence Multiplier Design](./DAY10)**
 - **[DAY 11 - 16bit_Shift_Reg](./DAY11)**
 - **[DAY 12 - Multiplication_by_repeated_Additon_Algorithm_Implementation](./DAY12)**
+- **[DAY 13 - 32x32_Register_File_Design](./DAY13)**
 
 
