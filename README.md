@@ -25,5 +25,6 @@ Questions from :
 - **[DAY 11 - 16bit_Shift_Reg](./DAY11)**
 - **[DAY 12 - Multiplication_by_repeated_Additon_Algorithm_Implementation](./DAY12)**
 - **[DAY 13 - 32x32_Register_File_Design](./DAY13)**
+- **[DAY 14 - Pipeline Modeling of Simple Circuit](./DAY14)**
 
 
