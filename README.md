@@ -26,5 +26,7 @@ Questions from :
 - **[DAY 12 - Multiplication_by_repeated_Additon_Algorithm_Implementation](./DAY12)**
 - **[DAY 13 - 32x32_Register_File_Design](./DAY13)**
 - **[DAY 14 - Pipeline Modeling of Simple Circuit](./DAY14)**
+- **[DAY 15 - Pipeline Modeling of Complex Circuit](./DAY15)**
+
 
 
