@@ -29,6 +29,11 @@ Questions from :
 - **[DAY 15 - Pipeline Modeling of Complex Circuit](./DAY15)**
 - **[DAY 16 - VENDING MACHINE MEALY](./DAY16)**
 - **[DAY 17 - VENDING MACHINE MOORE](./DAY17)**
+- **[DAY 18 - ](./DAY18)**
+- **[DAY 19 - ](./DAY19)**
+- **[DAY 20 - ](./DAY20)**
+- **[DAY 21 - ](./DAY21)**
+- **[DAY 22 - ](./DAY22)**
 
 
 
