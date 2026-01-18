@@ -27,8 +27,8 @@ Questions from :
 - **[DAY 13 - 32x32_Register_File_Design](./DAY13)**
 - **[DAY 14 - Pipeline Modeling of Simple Circuit](./DAY14)**
 - **[DAY 15 - Pipeline Modeling of Complex Circuit](./DAY15)**
-- **[DAY 16 - ](./DAY16)**
-- **[DAY 17 - ](./DAY17)**
+- **[DAY 16 - VENDING MACHINE MEALY](./DAY16)**
+- **[DAY 17 - VENDING MACHINE MOORE](./DAY17)**
 
 
 
